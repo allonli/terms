@@ -10,7 +10,6 @@ source,target,tgt_lng
 0.5.1 版本更新公告,0.5.1 Patch Notes,en
 0.5.2 版本更新公告,0.5.2 Patch Notes,en
 0.5.4 版本更新公告,0.5.4 Patch Notes,en
-Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 ……並免我於傷痛,...and Protect me from Harm,en
 ……並驅散於長風之中,...and Scatter Them to the Winds,en
 ……而我將怒號,...and I Shall Rage,en
@@ -47,7 +46,6 @@ Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 上古神盾,Ancient Aegis,en
 上古邪术,Ancient Hex,en
 上油外衣,Oiled Jacket,en
-上限,Limit,en
 不倦防护,Unabating,en
 不再哀悼,Lament No More,en
 不净,Impurity,en
@@ -156,7 +154,6 @@ Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 主宰之觸,The Master's Reach,en
 主宰領地,Mastered Domain,en
 主母殿堂,The Matriarch Halls,en
-主要,Meta,en
 主要寶石,Meta Gems,en
 主要灌注,Principal Infusion,en
 主要肢体,Prime Appendages,en
@@ -801,7 +798,6 @@ Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 兴奋鼓舞,Stimulants,en
 兴荣原野,Blooming Field,en
 兵卒巨盔,Soldier Greathelm,en
-其它,Misc Map Items,en
 典獄長格言,Axiom Warden,en
 典范,Paragon,en
 典范巨盔,Paragon Greathelm,en
@@ -1119,7 +1115,6 @@ Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 刨肉手斧,Carving Hatchet,en
 利奥波德的赞许,Leopold's Applause,en
 利爪刺擊,Claw Stab,en
-利用,Exploit,en
 利萨拉，歧途长矛,"Lythara, the Wayward Spear",en
 利齿魔符,Fang Talisman,en
 制图大师,The Cartographer,en
@@ -1187,7 +1182,6 @@ Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 劈山碎石,Mountain Splitter,en
 劈裂大地,Split the Earth,en
 劊子手,The Executioner,en
-劍,Swords,en
 劍刃斬,Sword Slash,en
 力之祭仪,Ritual of Might,en
 力抗黑暗,Against the Darkness,en
@@ -3160,7 +3154,6 @@ Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 异能魔力,Eldritch Battery,en
 弃置潜能,Potential Ignored,en
 弊病印记,Marked for Sickness,en
-弓,Bows,en
 弓射击,Bow Shot,en
 弓箭射擊,Bow Shot,en
 弓类,Bows,en
@@ -3999,7 +3992,6 @@ Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 捕梦者,Dreamcatcher,en
 捕獵者之兜,Trapper Hood,en
 损耗,Wasting,en
-捷,Herald,en
 捷光環,Herald,en
 捷光環技能,Herald Skills,en
 捷技能,Herald Skills,en
@@ -4228,7 +4220,6 @@ Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 斜擦偏斜,Glancing Deflection,en
 斥侯背心,Scout's Vest,en
 斥候背心,Scout's Vest,en
-斧,Axes,en
 斧挥砍,Axe Slash,en
 斧类,Axes,en
 斧鉞斬,Axe Slash,en
@@ -5996,7 +5987,6 @@ Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 煽风点火,Fan The Flames,en
 煽风点火II,Fan The Flames II,en
 熄滅吐息,Extinguishing Exhalation,en
-熊,Bear,en
 熊之咆吼,Bear's Roar,en
 熊之怒吼,Bear's Roar,en
 熊之魂,Spirit Of The Bear,en
@@ -6092,7 +6082,6 @@ Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 爆裂瘟疫,Bursting Plague,en
 爆裂蔓延,Cracklecreep,en
 爆頭,Headshot,en
-爪,Claws,en
 爪擊,Maul,en
 爪突刺,Claw Stab,en
 爪类,Claws,en
@@ -6703,7 +6692,6 @@ Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 相性 II,Alignment II,en
 相性 III,Alignment III,en
 相连的辅助宝石,Connected Support Gems,en
-盾,Shields,en
 盾墙,Shield Wall,en
 盾牌,Shields,en
 盾牌专长,Shield Expertise,en
@@ -10714,7 +10702,6 @@ Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 鋼鐵守護,Iron Ward,en
 鋼鐵拖鞋,Iron Slippers,en
 鋼鐵鏈錘,Iron Flail,en
-錘,Maces,en
 錘之打擊,Mace Strike,en
 錢滾錢,Riches Beget Riches,en
 錫耶拉的遺產,Sierran Inheritance,en
@@ -11932,7 +11919,6 @@ Character level skill scaling 角色等級技能範圍,Perfect Jeweller's Orb,en
 鼓舞詠唱,Emboldening Casts,en
 鼓舞領導,Emboldening Lead,en
 齐射,Salvo,en
-龍,Wyvern,en
 龍捲風,Tornado,en
 龍膚長靴,Drakeskin Boots,en
 龍蜥．欽路錫安,"Xyclucian, the Chimera",en
